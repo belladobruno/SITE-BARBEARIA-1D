@@ -1,0 +1,26 @@
+header{
+    background-color:black;
+    color: white;
+}
+
+body{
+    background-color:aquamarine;
+    color:black;
+}
+
+h1{
+    color:black;
+}
+
+p{
+    color:black;
+}
+
+ul {
+    color:blueviolet;
+}
+
+footer{
+    background-color:black;
+    color:blanchedalmond;
+}
